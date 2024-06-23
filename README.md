@@ -16,6 +16,7 @@
 <h3 align="center">VIEWACADEMY</h3>
 <div align="center">
 <a href="https://github.com/anuarxz/ViewAcademy" target="_blank"><img src="https://media.licdn.com/dms/image/D4D22AQE4t0-fwIXJng/feedshare-shrink_2048_1536/0/1713455322661?e=1721865600&v=beta&t=V6SjV2a10Z_FUMmj153DD1RIJLZwg1_gnSPZM5KNzgs" width="400"></a>
+<br>
 <p>📝 Se trata de una aplicación web enfocada en la IA Generativa y los diferentes usos que le podemos dar, en este caso de un Asistente Escolar que nos ayudará con temas relacionados con la educación, como asistente virtual de diferentes materias, calcular el plagio que hay entre dos archivos, preguntarle sobre archivos pdf, generar resumen y ver estadísticas entre otros.
 
 📐 Hay 3 diferentes tipos de usuarios: alumnos, profesores y admin. Cada uno tendrá una pantalla de inicio diferente ya que podrán acceder a diferentes secciones dependiendo del tipo de usuario.
@@ -28,20 +29,14 @@
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<h3 align="center">ReTradeX</h3>
+<div align="center">                                       
+<a href="https://retradex.000webhostapp.com/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D22AQGtqai_dCn-TQ/feedshare-shrink_800/0/1696244646388?e=1721865600&v=beta&t=2xLGv-w0byaMqaO6mXxRDnBICnn4n3_OUhBXUHK96_g" width="400"></a>
+<br>
+</p>Aplicación web dedicada a las inversiones y la venta de productos, además de tener su propio foro también tiene la posibilidad de comprar y vender activos financieros.
+
+Ha sido realizado por mi tanto el backend como el frontend, desde el logo hasta la base de datos relacional, he usado PHP, JavaScript, Bootstrap, SQL, entre otros.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
