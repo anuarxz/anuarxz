@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/anuar-iziani">Anuar</a> 👋</h1>
 </div>
 <img src="https://media.licdn.com/dms/image/D4D16AQEE0IZ5jyQBsw/profile-displaybackgroundimage-shrink_350_1400/0/1717711298172?e=1724889600&v=beta&t=jojj-c7sM27uzffM1lUpCOSLGDkQgM0dPoG5pEJw9RY">
 
@@ -11,7 +11,7 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 Mobile developer
+- 📲 Full-Stack developer
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
