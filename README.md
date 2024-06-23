@@ -6,25 +6,23 @@
 ## Sobre mi
 
 - ⭐ Full-Stack & AI developer ⭐
-- Hola! Me llamo Anuar, desarrollador web con un año de experiencia en entorno full-stack. He trabajado en equipo utilizando herramientas como Angular, NodeJS, PHP y JavaScript entre otros (también IA generativa junto con Python) para desarrollar y mantener soluciones tanto en frontend como en backend. Siempre dispuesto a aprender y mejorar tanto habilidades técnicas como no técnicas.
+- Desarrollador web con un año de experiencia en entorno full-stack. He trabajado en equipo utilizando herramientas como Angular, NodeJS, PHP y JavaScript entre otros (también IA generativa junto con Python) para desarrollar y mantener soluciones tanto en frontend como en backend. Siempre dispuesto a aprender y mejorar tanto habilidades técnicas como no técnicas.
 <br>
 
 ## Proyectos 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">VIEWACADEMY</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<a href="https://github.com/anuarxz/ViewAcademy" target="_blank"><img src="https://media.licdn.com/dms/image/D4D22AQE4t0-fwIXJng/feedshare-shrink_2048_1536/0/1713455322661?e=1721865600&v=beta&t=V6SjV2a10Z_FUMmj153DD1RIJLZwg1_gnSPZM5KNzgs" width="400"></a>
+<p>📝 Se trata de una aplicación web enfocada en la IA Generativa y los diferentes usos que le podemos dar, en este caso de un Asistente Escolar que nos ayudará con temas relacionados con la educación, como asistente virtual de diferentes materias, calcular el plagio que hay entre dos archivos, preguntarle sobre archivos pdf, generar resumen y ver estadísticas entre otros.
+
+📐 Hay 3 diferentes tipos de usuarios: alumnos, profesores y admin. Cada uno tendrá una pantalla de inicio diferente ya que podrán acceder a diferentes secciones dependiendo del tipo de usuario.
+
+🎯 A nivel de lenguajes, en el front se ha utilizado Angular junto con Bootstrap para la maquetación, en el back se utilizó NodeJS (Express para el servidor y la api de OpenAI) junto con Python (se usó sólo para calcular el plagio utilizando LangChain junto a la api de Cohere y para el servidor FastApi). Por último, para la base de datos MongoDB y para las estadísticas PowerBI.
+
+✨ También se han utilizado herramientas como git, github, entre otros.</p>
 </div>
                                                                                       
 </td>
