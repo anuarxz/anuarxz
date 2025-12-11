@@ -5,8 +5,8 @@
 
 ## Sobre mi
 
-- ⭐ Full-Stack & AI developer ⭐
-- Desarrollador web con un año de experiencia en entorno full-stack. He trabajado en equipo utilizando herramientas como Angular, NodeJS, PHP y JavaScript entre otros (también IA generativa junto con Python) para desarrollar y mantener soluciones tanto en frontend como en backend. Siempre dispuesto a aprender y mejorar tanto habilidades técnicas como no técnicas.
+- ⭐ Ingeniero de IA y Datos | Desarrollador Full-Stack ⭐
+- Ingeniero de Inteligencia Artificial y Datos con +2 años de experiencia desarrollando e implementando soluciones de IA en entornos Full-Stack. Especializado en el diseño, entrenamiento y despliegue de modelos de machine learning y LLMs, utilizando OpenAI, Azure AI, Gemini y modelos locales, junto con frameworks como TensorFlow, PyTorch, Scikit-learn y LangChain. 
 <br>
 
 ## Proyectos 
